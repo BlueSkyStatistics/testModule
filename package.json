@@ -4,7 +4,7 @@
     "description": "Testing module for BlueSky",
     "keywords": [],
     "main": "nav.js",
-    "minBSkyVersion": "7.80",
+    "minBSkyVersion": "8.80",
     "requiredPackages": {
         "ggplot2": ">= 3.3.0"
     },
