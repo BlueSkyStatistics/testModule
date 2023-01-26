@@ -1,0 +1,32 @@
+{
+    "name": "@BlueSkyStatistics/dialogs/test",
+    "productName": "Purelly testing module",
+    "description": "Testing module for BlueSky",
+    "keywords": [],
+    "main": "nav.js",
+    "minBSkyVersion": "7.80",
+    "requiredPackages": {
+        "ggplot2": ">= 3.3.0"
+    },
+    "version": "1.0.0",
+    "author": "BlueSky Statistics",
+    "scripts": {},
+    "dependencies": {
+        "squirrelly": "7.9.2"
+    },
+    "devDependencies": {
+        "asar": "^3.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BlueSkyStatistics/testModule.git"
+    },
+    "license": "AGLPL",
+    "bugs": {
+        "url": "https://github.com/BlueSkyStatistics/testModule/issues"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "homepage": "https://www.blueskystatistics.com"
+}
