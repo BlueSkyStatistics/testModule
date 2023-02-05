@@ -6,9 +6,9 @@
     "main": "nav.js",
     "minBSkyVersion": "8.70",
     "requiredPackages": [
-        {"ggplot2": ">= 3.5.0"}
+        {"ggplot2": ">= 3.3.0"}
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "BlueSky Statistics",
     "scripts": {},
     "dependencies": {
