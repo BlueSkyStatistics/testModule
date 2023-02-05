@@ -4,11 +4,11 @@
     "description": "Testing module for BlueSky",
     "keywords": [],
     "main": "nav.js",
-    "minBSkyVersion": "8.70",
+    "minBSkyVersion": "8.80",
     "requiredPackages": [
-        {"ggplot2": ">= 3.3.0"}
+        {"ggplot2": ">= 4.3.0"}
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": "BlueSky Statistics",
     "scripts": {},
     "dependencies": {
